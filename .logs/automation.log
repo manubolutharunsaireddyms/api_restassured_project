@@ -1,0 +1,40 @@
+[INFO ] 2024-05-18 15:32:11,633 UserTest.testPostUser() - Creating User
+[INFO ] 2024-05-18 15:32:15,774 UserTest.testGettUser() - Reading User
+[INFO ] 2024-05-18 15:32:16,960 UserTest.testUpdateUser() - Updating User
+[INFO ] 2024-05-18 15:32:18,182 UserTest.testDeleteUser() - Deleting User
+15:37:11.788 [main] INFO  api.test.UserTest - Creating User
+15:37:16.083 [main] INFO  api.test.UserTest - Reading User
+15:37:17.346 [main] INFO  api.test.UserTest - Updating User
+15:37:18.521 [main] INFO  api.test.UserTest - Deleting User
+15:38:39.382 [main] INFO  api.test.UserTest - Creating User
+15:38:43.748 [main] INFO  api.test.UserTest - Reading User
+15:38:45.014 [main] INFO  api.test.UserTest - Updating User
+15:38:46.217 [main] INFO  api.test.UserTest - Deleting User
+15:39:28.440 [main] INFO  api.test.UserTest - Creating User
+15:39:32.994 [main] INFO  api.test.UserTest - Reading User
+15:39:34.218 [main] INFO  api.test.UserTest - Updating User
+15:39:35.787 [main] INFO  api.test.UserTest - Deleting User
+15:40:27.263 [main] INFO  api.test.UserTest - Creating User
+15:40:32.217 [main] INFO  api.test.UserTest - Reading User
+15:40:34.230 [main] INFO  api.test.UserTest - Updating User
+15:40:35.442 [main] INFO  api.test.UserTest - Deleting User
+15:46:32.561 [main] INFO  api.test.UserTest - Creating User
+15:46:37.081 [main] INFO  api.test.UserTest - Reading User
+15:46:38.396 [main] INFO  api.test.UserTest - Updating User
+15:46:39.737 [main] INFO  api.test.UserTest - Deleting User
+15:55:24.065 [main] INFO  api.test.UserTest - Creating User
+15:55:28.925 [main] INFO  api.test.UserTest - Reading User
+15:55:30.211 [main] INFO  api.test.UserTest - Updating User
+15:55:31.384 [main] INFO  api.test.UserTest - Deleting User
+15:57:53.614 [main] INFO  api.test.UserTest - Creating User
+15:57:58.099 [main] INFO  api.test.UserTest - Reading User
+15:57:59.358 [main] INFO  api.test.UserTest - Updating User
+15:58:00.509 [main] INFO  api.test.UserTest - Deleting User
+16:11:39.797 [main] INFO  api.test.UserTest - Creating User
+16:11:44.427 [main] INFO  api.test.UserTest - Reading User
+16:11:45.607 [main] INFO  api.test.UserTest - Updating User
+16:11:46.854 [main] INFO  api.test.UserTest - Deleting User
+16:21:52.683 [main] INFO  api.test.UserTest - Creating User
+16:21:57.537 [main] INFO  api.test.UserTest - Reading User
+16:21:58.776 [main] INFO  api.test.UserTest - Updating User
+16:22:00.018 [main] INFO  api.test.UserTest - Deleting User
